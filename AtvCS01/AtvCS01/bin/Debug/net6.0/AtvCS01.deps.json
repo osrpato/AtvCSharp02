@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AtvCS01/1.0.0": {
+        "runtime": {
+          "AtvCS01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtvCS01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

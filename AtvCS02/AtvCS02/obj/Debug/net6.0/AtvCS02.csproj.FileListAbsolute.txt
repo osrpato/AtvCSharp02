@@ -1,0 +1,15 @@
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.AssemblyInfo.cs
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\bin\Debug\net6.0\AtvCS02.exe
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\bin\Debug\net6.0\AtvCS02.deps.json
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\bin\Debug\net6.0\AtvCS02.runtimeconfig.json
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\bin\Debug\net6.0\AtvCS02.dll
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\bin\Debug\net6.0\AtvCS02.pdb
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.dll
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\refint\AtvCS02.dll
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.pdb
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\AtvCS02.genruntimeconfig.cache
+C:\Users\vitor\source\repos\AtvCS02\AtvCS02\obj\Debug\net6.0\ref\AtvCS02.dll
