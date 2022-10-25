@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAPI", "VAPI\VAPI.csproj", "{ACB85F9D-9EBF-4D42-91B2-D1CAFCA60ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB85F9D-9EBF-4D42-91B2-D1CAFCA60ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB85F9D-9EBF-4D42-91B2-D1CAFCA60ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB85F9D-9EBF-4D42-91B2-D1CAFCA60ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB85F9D-9EBF-4D42-91B2-D1CAFCA60ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4688C4F5-76A5-4ABE-BD7C-86D85A47AF59}
+	EndGlobalSection
+EndGlobal

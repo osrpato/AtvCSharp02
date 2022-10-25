@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YHyJiYqL39ecfgQrslcjVFYQfL+bdFhkz3QUNnDxdt0=",
+  "Source": "VAPI",
+  "BasePath": "_content/VAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
