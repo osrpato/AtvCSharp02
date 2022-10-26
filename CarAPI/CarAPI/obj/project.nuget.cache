@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpkbAkI2S2twYIyiLBHJ2JLy+rQqzcEH58So/6JUyiAdqGWzV88+YC+hxv6lXSW7E7pE8RUJpDURbGmeYJTZ0g==",
+  "dgSpecHash": "0YyQsCMV06k1DrybSh/0A+055wcDrc15OQ5SGFG73JdUH1CvBJnf5IvQH8/0rgtRTmT9QCjo/OhqbaDfdm2Z2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\CarAPI\\CarAPI\\CarAPI.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\AtvCSharp02\\CarAPI\\CarAPI\\CarAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.17\\microsoft.data.sqlite.core.5.0.17.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

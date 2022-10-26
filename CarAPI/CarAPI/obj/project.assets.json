@@ -1218,11 +1218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\CarAPI\\CarAPI\\CarAPI.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Source\\Repos\\AtvCSharp02\\CarAPI\\CarAPI\\CarAPI.csproj",
       "projectName": "CarAPI",
-      "projectPath": "C:\\Users\\vitor\\source\\repos\\CarAPI\\CarAPI\\CarAPI.csproj",
+      "projectPath": "C:\\Users\\vitor\\Source\\Repos\\AtvCSharp02\\CarAPI\\CarAPI\\CarAPI.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\source\\repos\\CarAPI\\CarAPI\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Source\\Repos\\AtvCSharp02\\CarAPI\\CarAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
